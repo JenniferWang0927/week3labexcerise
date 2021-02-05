@@ -1,0 +1,8 @@
+@font-face {
+   
+    font-family: "lilgrotesk";
+    src: url("./assets/lilgrotesk_bold.woff") format("woff"); 
+  }
+h1{
+font-family: "lilgrotesk";
+}
