@@ -5,4 +5,58 @@
   }
 h1{
 font-family: "lilgrotesk";
+font-size: xx-large;
+color: rgb(194, 116, 152);
+}
+h2{
+  font-family: "lilgrotesk";
+  font-size: xx-large;
+  color: rgb(206, 84, 169);
+  }
+  h3{
+    font-family: "lilgrotesk";
+    font-size: xx-large;
+    color: rgb(228, 45, 235);
+    }
+
+    h4{
+      font-family: "lilgrotesk";
+      font-size: xx-large;
+      color: rgb(250, 159, 238);
+      }
+.paragraph{
+  font-family:"lilgrotesk_bold.woff";
+  font-size: 30px;
+  color: rgb(194, 116, 152);
+  transform: rotate(-10deg);
+
+}
+.paragraph2{
+  font-family:"lilgrotesk_bold.woff";
+  font-size: 35px;
+  color: rgb(206, 84, 169);
+  transform: rotate(10deg);
+}
+  .paragraph3{
+    font-family:"lilgrotesk_bold.woff";
+    font-size: 40px;
+    color: rgb(228, 45, 235);
+    transform: rotate(-10deg);
+  }
+  .paragraph4{
+    font-family:"lilgrotesk_bold.woff";
+    font-size: 45px;
+    color: rgb(250, 159, 238);
+    transform: rotate(10deg);
+  }
+  
+  
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-stroke: 0.1px;
+  text-shadow: rgb(140, 170, 209) 3px 2px 2px;
+  background-color: whitesmoke;
+
 }
